@@ -1,1 +1,1 @@
-Build is being done periodically
+echo "Build is being done periodically"
